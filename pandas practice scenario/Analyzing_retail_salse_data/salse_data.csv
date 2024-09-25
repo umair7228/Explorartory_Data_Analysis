@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Quantity,Price,TransactionDate,CustomerID,CustomerName,CustomerLocation
+101,Apple,Produce,10,0.5,01/01/2023,201,John Doe,New York1101
+102,Banana,Produce,6,0.3,02/01/2023,202,Jane Smith,California
+103,Bread,Bakery,2,2.5,03/01/2023,203,Emily Davis,Texas
+104,Milk,Dairy,1,1.5,03/01/2023,204,John Doe,New York
+105,Cheese,Dairy,5,3,04/01/2023,205,Michael Brown,Florida
+106,Chicken,Meat,1,5,04/01/2023,206,Jane Smith,California
+107,Rice,Grains,3,1.2,05/01/2023,207,David Wilson,Ohio
+108,Beans,Grains,4,0.8,05/01/2023,208,James Johnson,Illinois
+109,Apple,Produce,5,0.5,06/01/2023,209,Linda Martinez,New Jersey
+110,Banana,Produce,8,0.3,06/01/2023,210,Susan Lee,Nevada
